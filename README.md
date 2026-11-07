@@ -1,4 +1,4 @@
-# StudyQuest 📖✨  
+# Mystic Hours 📖✨  
 
 this is a gamified student productivity application built with Kotlin and Jetpack Compose for Android.
 The goal of this project is to create a mobile application as a practical productivity tool for students, where I want to add functionalties to create study tasks, complete quests and earn XP.
