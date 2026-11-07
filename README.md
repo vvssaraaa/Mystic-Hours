@@ -23,3 +23,8 @@ Custom themed UI
 -Git & GitHub
 
 (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
+
+# A demo
+
+https://github.com/user-attachments/assets/1d04533f-f929-4376-b185-a7b0c53c3b0f
+
